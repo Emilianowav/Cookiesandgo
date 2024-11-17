@@ -9,7 +9,6 @@ import arreglo from "../../../public/images/arregloHome.svg";
 import tortuga from "../../../public/images/tortuga.png";
 import planta from "../../../public/images/planta.png";
 import galleta from "../../../public/images/galletahome.png";
-import flecha from "../../../public/images/flecha.png";
 import { useState } from 'react';
 
 export default function Seccion1() {
